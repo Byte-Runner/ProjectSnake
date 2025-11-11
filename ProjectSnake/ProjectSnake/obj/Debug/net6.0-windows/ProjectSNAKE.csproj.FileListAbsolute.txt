@@ -1,0 +1,63 @@
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba\Project_SNAKE\Project_SNAKE\bin\Debug\net6.0-windows\ProjectSNAKE.exe
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba\Project_SNAKE\Project_SNAKE\bin\Debug\net6.0-windows\ProjectSNAKE.deps.json
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba\Project_SNAKE\Project_SNAKE\bin\Debug\net6.0-windows\ProjectSNAKE.runtimeconfig.json
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba\Project_SNAKE\Project_SNAKE\bin\Debug\net6.0-windows\ProjectSNAKE.dll
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba\Project_SNAKE\Project_SNAKE\bin\Debug\net6.0-windows\ProjectSNAKE.pdb
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\App.g.cs
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\ProjectSNAKE_MarkupCompile.cache
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\ProjectSNAKE_MarkupCompile.lref
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\App.baml
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\ProjectSNAKE.g.resources
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\ProjectSNAKE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\ProjectSNAKE.AssemblyInfoInputs.cache
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\ProjectSNAKE.AssemblyInfo.cs
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\ProjectSNAKE.csproj.CoreCompileInputs.cache
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\ProjectSNAKE.dll
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\refint\ProjectSNAKE.dll
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\ProjectSNAKE.pdb
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\ProjectSNAKE.genruntimeconfig.cache
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\ref\ProjectSNAKE.dll
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba - Copy\Project_SNAKE\Project_SNAKE\bin\Debug\net6.0-windows\ProjectSNAKE.exe
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba - Copy\Project_SNAKE\Project_SNAKE\bin\Debug\net6.0-windows\ProjectSNAKE.deps.json
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba - Copy\Project_SNAKE\Project_SNAKE\bin\Debug\net6.0-windows\ProjectSNAKE.runtimeconfig.json
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba - Copy\Project_SNAKE\Project_SNAKE\bin\Debug\net6.0-windows\ProjectSNAKE.dll
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba - Copy\Project_SNAKE\Project_SNAKE\bin\Debug\net6.0-windows\ProjectSNAKE.pdb
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba - Copy\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba - Copy\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\App.g.cs
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba - Copy\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\ProjectSNAKE_MarkupCompile.cache
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba - Copy\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\ProjectSNAKE_MarkupCompile.lref
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba - Copy\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\App.baml
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba - Copy\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba - Copy\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\ProjectSNAKE.g.resources
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba - Copy\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\ProjectSNAKE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba - Copy\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\ProjectSNAKE.AssemblyInfoInputs.cache
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba - Copy\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\ProjectSNAKE.AssemblyInfo.cs
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba - Copy\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\ProjectSNAKE.csproj.CoreCompileInputs.cache
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba - Copy\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\ProjectSNAKE.dll
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba - Copy\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\refint\ProjectSNAKE.dll
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba - Copy\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\ProjectSNAKE.pdb
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba - Copy\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\ProjectSNAKE.genruntimeconfig.cache
+D:\Downloads\___3 sem\_Komponentová tvorba SW\_PROJEKT komp.tvorba - Copy\Project_SNAKE\Project_SNAKE\obj\Debug\net6.0-windows\ref\ProjectSNAKE.dll
+D:\Downloads\__Projects\_ProjectSnake\ProjectSnake\ProjectSnake\bin\Debug\net6.0-windows\ProjectSnake.exe
+D:\Downloads\__Projects\_ProjectSnake\ProjectSnake\ProjectSnake\bin\Debug\net6.0-windows\ProjectSnake.deps.json
+D:\Downloads\__Projects\_ProjectSnake\ProjectSnake\ProjectSnake\bin\Debug\net6.0-windows\ProjectSnake.runtimeconfig.json
+D:\Downloads\__Projects\_ProjectSnake\ProjectSnake\ProjectSnake\bin\Debug\net6.0-windows\ProjectSnake.dll
+D:\Downloads\__Projects\_ProjectSnake\ProjectSnake\ProjectSnake\bin\Debug\net6.0-windows\ProjectSnake.pdb
+D:\Downloads\__Projects\_ProjectSnake\ProjectSnake\ProjectSnake\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Downloads\__Projects\_ProjectSnake\ProjectSnake\ProjectSnake\obj\Debug\net6.0-windows\App.g.cs
+D:\Downloads\__Projects\_ProjectSnake\ProjectSnake\ProjectSnake\obj\Debug\net6.0-windows\ProjectSnake_MarkupCompile.cache
+D:\Downloads\__Projects\_ProjectSnake\ProjectSnake\ProjectSnake\obj\Debug\net6.0-windows\ProjectSnake_MarkupCompile.lref
+D:\Downloads\__Projects\_ProjectSnake\ProjectSnake\ProjectSnake\obj\Debug\net6.0-windows\App.baml
+D:\Downloads\__Projects\_ProjectSnake\ProjectSnake\ProjectSnake\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Downloads\__Projects\_ProjectSnake\ProjectSnake\ProjectSnake\obj\Debug\net6.0-windows\ProjectSnake.g.resources
+D:\Downloads\__Projects\_ProjectSnake\ProjectSnake\ProjectSnake\obj\Debug\net6.0-windows\ProjectSnake.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\__Projects\_ProjectSnake\ProjectSnake\ProjectSnake\obj\Debug\net6.0-windows\ProjectSnake.AssemblyInfoInputs.cache
+D:\Downloads\__Projects\_ProjectSnake\ProjectSnake\ProjectSnake\obj\Debug\net6.0-windows\ProjectSnake.AssemblyInfo.cs
+D:\Downloads\__Projects\_ProjectSnake\ProjectSnake\ProjectSnake\obj\Debug\net6.0-windows\ProjectSnake.csproj.CoreCompileInputs.cache
+D:\Downloads\__Projects\_ProjectSnake\ProjectSnake\ProjectSnake\obj\Debug\net6.0-windows\ProjectSnake.dll
+D:\Downloads\__Projects\_ProjectSnake\ProjectSnake\ProjectSnake\obj\Debug\net6.0-windows\refint\ProjectSnake.dll
+D:\Downloads\__Projects\_ProjectSnake\ProjectSnake\ProjectSnake\obj\Debug\net6.0-windows\ProjectSnake.pdb
+D:\Downloads\__Projects\_ProjectSnake\ProjectSnake\ProjectSnake\obj\Debug\net6.0-windows\ProjectSnake.genruntimeconfig.cache
+D:\Downloads\__Projects\_ProjectSnake\ProjectSnake\ProjectSnake\obj\Debug\net6.0-windows\ref\ProjectSnake.dll
